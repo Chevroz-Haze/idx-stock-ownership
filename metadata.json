@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Penyesalan — 1% Shareholders Data",
+  "description": "IDX >=1% KSEI Share Ownership Data Dashboard tracking major institutional, retail, and conglomerate shareholdings across Indonesia Stock Exchange issuers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
